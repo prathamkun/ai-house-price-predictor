@@ -11,7 +11,8 @@ with open("model/model.pkl", "rb") as f:
 
 @app.route("/")
 def home():
-    return "House Price Prediction API is running 🚀"
+    return render_template("index.html")
+
 
 @app.route("/predict-test", methods=["GET"])
 def predict_test():
