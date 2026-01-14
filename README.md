@@ -116,7 +116,7 @@ AI/ML & Full Stack Developer
 
 GitHub: https://github.com/prathamkun
 
-X (Twitter): https://x.com/prathamiscoding
+X: https://x.com/prathamiscoding
 
 
 
